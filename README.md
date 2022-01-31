@@ -2,6 +2,8 @@
 ######  Herkese selam
 ######  ben null Mustafa
 
+# Not
+###### Her tokene kanal ID si girmelisin yoksa hata alırsın!!
 
 # 😎 Açıklama
 
