@@ -1,0 +1,14 @@
+{
+  "name": "null-woice",
+  "version": "1.0.3",
+  "description": "",
+  "main": "null.js",
+  "scripts": {
+    "test": "node null.js"
+  },
+  "author": "null-woice",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js-selfbot": "^12.0.2"
+  }
+}
