@@ -2,7 +2,6 @@
 ######  Herkese selam
 ######  ben null Mustafa
 
-# ⭐️ 30 Starda burada
 
 # 😎 Açıklama
 
