@@ -2,11 +2,9 @@
 ######  Herkese selam
 ######  ben null Mustafa
 
-# Not
-###### Her tokene kanal ID si girmelisin yoksa hata alırsın!!
 
 # 😎 Açıklama
-
+###### Her tokene kanal ID si girmelisin yoksa hata alırsın!!
 ###### Ekip priv pub sunucunuz varsa bu bot sizlerin ses aktifliğini sağlayacaktır 
 ###### Orospu çocuğu milletin hakkını yeme ananı sikerim diyorsanızda benden pek bi farkınız yok
 
